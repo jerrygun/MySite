@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+
+.Box_1 {
+  background-color: #63b7af;
+  height: 100%;
+  width: 100%;
+  padding: 50px 0.5px 0.5px 50px;
+  margin-bottom: auto;
+}
+
+p {
+  font-size: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+  top: 2px;
+}
+
+.pp {
+  padding-top: 10px;
+}
+
+h1 {
+  color: #fee2b3;
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 0;
+}
+.footer-link{
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color:#cceabb;
+
+
+}
+.btn{
+    text-decoration: none;
+
+}
+a:hover{
+  color:#fdcb9e;
+    text-decoration: none;
+}
+.gg {
+  font-weight: lighter;
+  color: #fee2b3;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  font-size: 30px;
+padding: 20px;
+}
+
+.contact-me {
+  font-size: 30px;
+}
+
+.basketball {
+  line-height: 2;
+}
+
+.programming {
+  line-height: 2;
+}
+
+.Basketball {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.Programming {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+
+hr {
+  border-style: dotted;
+  width: 30%;
+  border-width: 6px;
+  border-color: #63b7af;
+  border-top: 0;
+  margin: 80px auto;
+}
+.bottom-container{
+  background-color:  #fee2b3;
+  padding-bottom: 20px;
+}
